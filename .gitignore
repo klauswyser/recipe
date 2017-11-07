@@ -1,0 +1,2 @@
+# don't track swap files
+.*.sw?
